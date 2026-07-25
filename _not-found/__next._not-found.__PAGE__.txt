@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-2:I[73478,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/13lxzgfjb_6qc.js"],"SiteNav"]
-3:I[22016,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/13lxzgfjb_6qc.js"],""]
+2:I[73478,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/12g1dsmpd9b.r.js"],"SiteNav"]
+3:I[22016,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/12g1dsmpd9b.r.js"],""]
 4:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"not-found-page","children":[["$","$L2",null,{}],["$","div",null,{"children":[["$","span",null,{"children":"404 / UNMAPPED TERRITORY"}],["$","h1",null,{"children":["This edge has",["$","br",null,{}],["$","em",null,{"children":"moved elsewhere."}]]}],["$","$L3",null,{"href":"/","className":"text-link","children":["Return to the known map ",["$","i",null,{"children":"↙"}]]}]]}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/13lxzgfjb_6qc.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"em4ZC1ZXEfMObDNpl_4JS"}
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"not-found-page","children":[["$","$L2",null,{}],["$","div",null,{"children":[["$","span",null,{"children":"404 / UNMAPPED TERRITORY"}],["$","h1",null,{"children":["This edge has",["$","br",null,{}],["$","em",null,{"children":"moved elsewhere."}]]}],["$","$L3",null,{"href":"/","className":"text-link","children":["Return to the known map ",["$","i",null,{"children":"↙"}]]}]]}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/12g1dsmpd9b.r.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"fcGqj665bbZnmf9sotTYy"}
 6:null
